@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:movieapp/screens/movie_details_screen.dart';
 
-import 'home_screen.dart';
+import 'screens/home_screen.dart';
 
 void main() {
   runApp(MyApp());
@@ -17,6 +18,9 @@ class MyApp extends StatelessWidget {
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: HomeScreen(),
+      routes: {
+        MovieDetailsScreen.routeName: (ctx) => MovieDetailsScreen(),
+      },
     );
   }
 }
