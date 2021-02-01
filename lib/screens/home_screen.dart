@@ -8,6 +8,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.black,
       body: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Stack(
             alignment: Alignment.topCenter,
@@ -33,6 +34,13 @@ class HomeScreen extends StatelessWidget {
                 ),
               ),
             ],
+          ),
+          Text(
+            'Destaques',
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 25,
+            ),
           ),
           Container(
             color: Colors.black,
