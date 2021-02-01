@@ -7,7 +7,7 @@ class MovieDetailsScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: Text('teste'),
+      child: Scaffold(backgroundColor: Colors.black, body: Text('teste')),
     );
   }
 }
