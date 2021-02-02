@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:movieapp/widgets/star_rating.dart';
 
 class MovieDetailsScreen extends StatelessWidget {
   static const routeName = '/movie-details';
@@ -7,7 +8,7 @@ class MovieDetailsScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final routeArgs =
-        ModalRoute.of(context).settings.arguments as Map<String, String>;
+        ModalRoute.of(context).settings.arguments as Map<String, dynamic>;
     final id = routeArgs['id'];
     final rating = routeArgs['rating'];
 
@@ -59,6 +60,7 @@ class MovieDetailsScreen extends StatelessWidget {
               SizedBox(
                 height: 20,
               ),
+              StarRating(value: routeArgs['starRating']),
               SizedBox(
                 height: 20,
               ),

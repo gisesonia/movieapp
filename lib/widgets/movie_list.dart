@@ -22,6 +22,7 @@ class MovieList extends StatelessWidget {
               'imageUrl': movieList[index].imageUrl,
               'description': movieList[index].description,
               'rating': movieList[index].rating,
+              'starRating': movieList[index].starRating,
               'year': movieList[index].year,
               'duration': movieList[index].duration,
             },
