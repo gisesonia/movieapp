@@ -6,7 +6,7 @@ Imagens e descrição
 
 ![alt text](https://github.com/gisesonia/movieapp/blob/main/screenshots/tela_principal.PNG "Tela principal")
 
-![alt text](https://github.com/gisesonia/movieapp/blob/main/screenshots/tela_principal.PNG "Tela de detalhes")
+![alt text](https://github.com/gisesonia/movieapp/blob/main/screenshots/tela_detalhes_filme.PNG "Tela de detalhes")
 
 ## Getting Started
 
