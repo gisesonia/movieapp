@@ -8,7 +8,7 @@ Imagens e descrição
 
 ![alt text](https://github.com/gisesonia/movieapp/blob/main/screenshots/tela_detalhes_filme.PNG "Tela de detalhes")
 
-![alt text](https://github.com/gisesonia/movieapp/blob/main/screenshots/tela_interacao.gif "Tela com interação"){:height="2220px" width="1080px"}
+![alt text](https://github.com/gisesonia/movieapp/blob/main/screenshots/tela_interacao.gif "Tela com interação"){height="2220px" width="1080px"}
 
 ## Getting Started
 
