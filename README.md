@@ -4,13 +4,13 @@ Galeria de filmes semelhante ao Netflix.
 
 Imagens e descrição
 
-![alt text](https://github.com/gisesonia/movieapp/blob/main/screenshots/Screenshot_1612301680.png "Tela principal")
+<img src="https://github.com/gisesonia/movieapp/blob/main/screenshots/Screenshot_1612301680.png" alt="Tela de detalhes" height="612px" width="287px" />
 
-![alt text](https://github.com/gisesonia/movieapp/blob/main/screenshots/Screenshot_1612300261.png "Tela de detalhes")
+<img src="https://github.com/gisesonia/movieapp/blob/main/screenshots/Screenshot_1612300261.png" alt="Tela de detalhes" height="612px" width="287px" />
 
-![alt text](https://github.com/gisesonia/movieapp/blob/main/screenshots/Screenshot_1612300266.png "Tela de detalhes")
+<img src="https://github.com/gisesonia/movieapp/blob/main/screenshots/Screenshot_1612300266.png" alt="Tela de detalhes" height="612px" width="287px" />
 
-![alt text](https://github.com/gisesonia/movieapp/blob/main/screenshots/Screenshot_1612301688.png "Tela de detalhes")
+<img src="https://github.com/gisesonia/movieapp/blob/main/screenshots/Screenshot_1612301688.png" alt="Tela de detalhes" height="612px" width="287px" />
 
 <img src="https://github.com/gisesonia/movieapp/blob/main/screenshots/tela_interacao.gif" height="612px" width="287px" />
 
