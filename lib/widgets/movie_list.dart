@@ -11,7 +11,7 @@ class MovieList extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       padding: const EdgeInsets.all(10),
-      width: 160,
+      width: 150,
       child: GestureDetector(
         onTap: () {
           Navigator.of(context).pushNamed(
@@ -36,7 +36,7 @@ class MovieList extends StatelessWidget {
               child: Hero(
                 tag: movieList[index].id,
                 child: Container(
-                  height: 200,
+                  height: 180,
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(5),
                     image: DecorationImage(
@@ -47,12 +47,10 @@ class MovieList extends StatelessWidget {
                 ),
               ),
             ),
-            SizedBox(
-              height: 10,
-            ),
             Text(
               movieList[index].title,
               style: TextStyle(
+                color: Colors.red,
                 fontSize: 16,
                 fontWeight: FontWeight.bold,
               ),
