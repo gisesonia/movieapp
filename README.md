@@ -1,6 +1,12 @@
 # movieapp
 
-A new Flutter project.
+Galeria de filmes semelhante ao Netflix.
+
+Imagens e descrição
+
+![alt text](https://github.com/gisesonia/movieapp/blob/main/screenshots/tela_principal.PNG "Tela principal")
+
+![alt text](https://github.com/gisesonia/movieapp/blob/main/screenshots/tela_principal.PNG "Tela de detalhes")
 
 ## Getting Started
 
