@@ -39,10 +39,19 @@ final movieList = [
       duration: '181 min'),
   Movie(
       id: '0003',
-      title: 'Vingadores - Guerra Infinita',
-      imageUrl: 'assets/images/pantera_negra_2018.jpg',
+      title: 'Homem Aranha Longe de Casa',
+      imageUrl: 'assets/images/homem_aranha.jpg',
       description:
-          'Thanos finalmente chega à Terra, disposto a reunir as Joias do Infinito. Para enfrentá-lo, os Vingadores precisam unir forças com os Guardiões da Galáxia, ao mesmo tempo em que lidam com desavenças entre alguns de seus integrantes.',
+          'Peter Parker (Tom Holland) está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury (Samuel L. Jackson).',
+      rating: '8.6',
+      year: '2019',
+      duration: '181 min'),
+  Movie(
+      id: '0004',
+      title: 'O Falcão e o Soldado Invernal',
+      imageUrl: 'assets/images/falcao_soldado_invernal.jpg',
+      description:
+          'O Falcão e o Soldado Invernal é uma minissérie estadunidense criada para o Disney+ por Malcolm Spellman, baseada nos personagens da Marvel Comics Sam Wilson/Falcão e Bucky Barnes/Soldado Invernal.',
       rating: '8.6',
       year: '2019',
       duration: '181 min'),
